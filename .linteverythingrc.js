@@ -7,8 +7,5 @@ module.exports = {
 		'icon-144.png',
 		'LICENSE'
 	],
-	linters: {
-		eslint: true
-	},
 	verbose: true
 };
