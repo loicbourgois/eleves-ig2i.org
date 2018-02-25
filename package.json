@@ -4,7 +4,7 @@
 	"description": "[eleves-ig2i.org](http://eleves-ig2i.org)",
 	"main": "index.js",
 	"dependencies": {
-		"linteverything": "latest"
+		"linteverything": "^0.3.0"
 	},
 	"devDependencies": {},
 	"scripts": {
